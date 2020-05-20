@@ -1,0 +1,9 @@
+the current directory has four folders as:
+all_descriptors, bonding_components, imp_bonding, individual_tt_dt, max_depth_analysis
+The folders contains training, testing, and final score values used in the manuscript
+all_descriptors: when all the descriptors were used
+bonding_components: the folders contains three sub-folders as "angles","bonds",and "dihedrals". The subfolders calculates the values using angles, bonds, and dihedrals descriptors
+imp_bonding:the folders contains three sub-folders as "imp_angles","imp_bonds",and "imp_dihedrals".The subfolders calculates the values using top angles, bonds, and dihedrals descriptors identified from PCA.
+individual_tt_dt:the folders contains six sub-folders as "atom_name", "atom_types", "bonding", "molecular_attributes", "molecular_types", "mol_wt".The sub-folders contain files correspond to descriptors as mentioned in the manuscript
+max_depth_analysis:the files contain the score values during maximum depth analysis
+
