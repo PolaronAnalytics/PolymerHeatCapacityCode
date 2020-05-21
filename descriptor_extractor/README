@@ -1,1 +1,4 @@
-
+the code is for extracting veraious descriptors from polymer data file. 
+The code should be run from the directory containing all the data file (e.g. via the structures folder)
+The bash script should be run as "bash data_extracter.bash" (without quotes)
+The python file locations inside the bash script should be updated before running the code
