@@ -1,1 +1,6 @@
 
+The csv files in the "csv_files_polymer_data" are generated from "Cp_Polymer_Data.xlsx" file
+
+The code reads various csv files and genreate train and test files with score as output
+
+The lines in the python script 
