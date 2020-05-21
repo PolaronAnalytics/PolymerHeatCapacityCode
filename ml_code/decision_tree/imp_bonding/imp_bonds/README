@@ -1,0 +1,3 @@
+each of the folders, C1_C1, C1_C1+C1_N1+C2_N1+C2_O1, .....
+contains the python script "decision_tree_impl_ml.py" with all the lines are same, except the line:
+"data.drop(['C1_N1','C2_H4','C1_C1','C2_N1','N1_H6'], axis = 1, inplace = True)", it reads the appropriate descriptors for the calculations
